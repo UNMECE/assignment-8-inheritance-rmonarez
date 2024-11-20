@@ -1,4 +1,4 @@
-nclude "electric_field.h"
+#include "electric_field.h"
 #include <iostream>
 #include <cmath>
 

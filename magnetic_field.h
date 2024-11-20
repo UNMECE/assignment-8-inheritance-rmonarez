@@ -1,4 +1,4 @@
-fndef MAGNETIC_FIELD_H
+#ifndef MAGNETIC_FIELD_H
 #define MAGNETIC_FIELD_H
 
 #include "field.h"

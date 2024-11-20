@@ -1,4 +1,4 @@
-fndef ELECTRIC_FIELD_H
+#ifndef ELECTRIC_FIELD_H
 #define ELECTRIC_FIELD_H
 
 #include "field.h"

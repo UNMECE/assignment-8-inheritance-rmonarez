@@ -1,4 +1,4 @@
-lude "magnetic_field.h"
+#include "magnetic_field.h"
 #include <iostream>
 #include <cmath>
 

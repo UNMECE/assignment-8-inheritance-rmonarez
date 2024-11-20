@@ -1,4 +1,4 @@
-nclude "field.h"
+#include "field.h"
 
 // Default constructor
 Field::Field() : value{0.0, 0.0, 0.0} {}

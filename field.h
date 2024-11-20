@@ -1,4 +1,4 @@
-fndef FIELD_H
+#ifndef FIELD_H
 #define FIELD_H
 
 #include <iostream>
